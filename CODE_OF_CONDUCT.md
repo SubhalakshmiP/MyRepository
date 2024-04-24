@@ -26,3 +26,5 @@ If you experience or witness any violations of this Code of Conduct, please repo
 Violations of the Code of Conduct may result in warnings, temporary suspensions, or permanent bans from the project or community.
 
 By contributing to this project, you agree to abide by the Code of Conduct.
+
+For additional guidelines, please refer to our CONTRIBUTING.md file.
